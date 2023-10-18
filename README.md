@@ -1,5 +1,5 @@
-# A-Deep-Learning-Model-with-Magnetometer-and-Arduino
-
+# A-Deep-Learning-Model-with-Magnetometer-and-Arduino 
+An effective attempt to integrate an Arduino with a magnetometer. A successful approach to create a deep learning model in the C and C++ programming languages.
 
 ### Magnetometer Used: HMC5883L
 
